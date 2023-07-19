@@ -1,4 +1,4 @@
-# DSA-Group-Assignment-Pivot-Inc
+# DSA-DCIT 308-Group-Assignment-Pivot-Inc
 
 DCIT 308_Pharmacy Management System
 
