@@ -1,6 +1,15 @@
 import java.util.*;
 
-// Drug class represents a drug with its attributes
+/*
+Pivot Inc.
+10862595-Nana D. Ampomah
+10896752-Kenneth Ankrah
+10892036-Berima Akoto
+10916516-Doreen Oduro
+10915824-Emmanuella Afia Frimpomaah Acheampong
+*/
+
+// represents a drug with its attributes
 class Drug {
     private String code;
     private String name;
@@ -13,7 +22,6 @@ class Drug {
     }
 
     // Getters and setters for the attributes
-    // ...
 
     @Override
     public String toString() {
@@ -25,7 +33,7 @@ class Drug {
     }
 }
 
-// Supplier class represents a supplier with its attributes
+//represents a supplier with its attributes
 class Supplier {
     private String name;
     private String location;
@@ -36,7 +44,6 @@ class Supplier {
     }
 
     // Getters and setters for the attributes
-    // ...
 
     @Override
     public String toString() {
@@ -47,7 +54,7 @@ class Supplier {
     }
 }
 
-// Purchase class represents a purchase with its attributes
+//represents a purchase with its attributes
 class Purchase {
     private String drugCode;
     private Date purchaseDate;
@@ -62,7 +69,6 @@ class Purchase {
     }
 
     // Getters and setters for the attributes
-    // ...
 
     @Override
     public String toString() {
