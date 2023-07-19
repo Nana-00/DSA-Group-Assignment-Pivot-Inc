@@ -25,7 +25,7 @@ public class PharmacyManagementSystemUI extends Application {
     /*
     Pivot Inc.
     
-    10862595-Nana D. Ampomah
+    10862595-Daniel Nana Ampomah
     10896752-Kenneth Ankrah
     10892036-Berima Akoto
     10916516-Doreen Oduro
