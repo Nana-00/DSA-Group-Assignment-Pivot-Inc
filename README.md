@@ -6,7 +6,7 @@ Group Info:
 
 Pivot Inc.
 
-10862595-Nana D. Ampomah
+10862595-Daniel Nana Ampomah
 
 10896752-Kenneth Ankrah
 
