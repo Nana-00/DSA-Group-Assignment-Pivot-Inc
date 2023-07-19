@@ -22,6 +22,16 @@ import javafx.stage.Stage;
 
 public class PharmacyManagementSystemUI extends Application {
 
+    /*
+    Pivot Inc.
+    
+    10862595-Nana D. Ampomah
+    10896752-Kenneth Ankrah
+    10892036-Berima Akoto
+    10916516-Doreen Oduro
+    10915824-Emmanuella Afia Frimpomaah Acheampong
+    */
+
     @Override
     public void start(Stage primaryStage) throws Exception {
         // Set up the main window
